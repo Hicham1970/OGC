@@ -7,8 +7,12 @@ To use this worksheet:
   into your personal.XLSB to be accessible between active add-ins.
 - the file ClickImage.txt is used to minimize or maximize the window. Make a Module in your Excel sheet  ogc.xlsm (to call modUI)
 - the file modUI.txt  is used to minimize or maximize the window. Make a Module in your Excel sheet  ogc.xlsm
-- saveAsPDf.txt Module to save reports as pdf
+- saveAsPDf.txt Module to save reports as pdf.
+
+  
   ################################################################
-  The Excel sheet contains:
+
+
+   The Excel sheet contains:
   -Menu: a draft survey report, make your inputs in this sheet
   - DS_Report: the draft survey report
