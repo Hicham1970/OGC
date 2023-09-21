@@ -1,0 +1,16 @@
+Option Explicit
+
+Sub ImageOff_Cliquer()
+
+ShowAll
+'ThisWorkbook.Sheets("Menu").shaps("ImageOff").Visible = False
+'ThisWorkbook.Sheets("Menu").shaps("ImageOn").Visible = True
+
+End Sub
+
+Sub ImageOn_Cliquer()
+
+HideAll
+'ThisWorkbook.Sheets("Menu").shaps("ImageOff").Visible = True
+'ThisWorkbook.Sheets("Menu").shaps("ImageOn").Visible = False
+End Sub

@@ -1,0 +1,25 @@
+Option Explicit
+
+Sub Image12_Cliquer()
+Feuil11.ExportAsFixedFormat xlTypePDF, Environ("userprofile") & "\Desktop\\PrintOut\Deductibles.pdf"
+End Sub
+Sub Image13_Cliquer()
+Feuil9.ExportAsFixedFormat xlTypePDF, Environ("userprofile") & "\Desktop\\PrintOut\DSReport.pdf"
+End Sub
+Sub Image10_Cliquer()
+Feuil10.ExportAsFixedFormat xlTypePDF, Environ("userprofile") & "\Desktop\\PrintOut\Details.pdf"
+End Sub
+
+Sub Image16_Cliquer()
+Feuil1.ExportAsFixedFormat xlTypePDF, Environ("userprofile") & "\Desktop\\PrintOut\UllageReport.pdf"
+End Sub
+Sub Image17_Cliquer()
+Feuil3.ExportAsFixedFormat xlTypePDF, Environ("userprofile") & "\Desktop\\PrintOut\FOBunkerReport.pdf"
+End Sub
+Sub Image27_Cliquer()
+Feuil2.ExportAsFixedFormat xlTypePDF, Environ("userprofile") & "\Desktop\\PrintOut\DOBunkerReport.pdf"
+End Sub
+Sub Image61_Cliquer()
+Feuil12.ExportAsFixedFormat xlTypePDF, Environ("userprofile") & "\Desktop\\PrintOut\UllageACP.pdf"
+End Sub
+
